@@ -2,8 +2,11 @@
 
 ## GCP
 GCR to store docker images
+
 K8S cluster setup automation
+
 User management with Gsuite
+
 IAP
 
 ## Kubernetes
